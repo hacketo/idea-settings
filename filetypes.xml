@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="?page=0" type="HTML" />
+      <mapping ext="map" type="PLAIN_TEXT" />
+      <mapping ext="volt" type="Twig" />
+    </extensionMap>
+  </component>
+</application>
