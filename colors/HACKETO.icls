@@ -5,18 +5,17 @@
     <property name="description" />
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2018-05-29T20:47:09</property>
+    <property name="modified">2018-06-06T11:49:11</property>
     <property name="originalScheme">_@user_Lichen (rainglow)</property>
     <property name="vendorMail" />
     <property name="vendorName">Hacketo</property>
     <property name="vendorUrl">http://d3vx.fr</property>
     <property name="version">0.1</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="0.8" />
-  <option name="EDITOR_FONT_SIZE" value="13" />
-  <option name="EDITOR_FONT_NAME" value="Inconsolata" />
+  <option name="LINE_SPACING" value="0.9" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
   <option name="CONSOLE_FONT_NAME" value="Tlwg Typist" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c5d671" />
