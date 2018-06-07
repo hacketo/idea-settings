@@ -19,10 +19,10 @@
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
-  <action id="EditorMoveToPageBottom">
+  <action id="EditorScrollBottom">
     <keyboard-shortcut first-keystroke="ctrl page_down" />
   </action>
-  <action id="EditorMoveToPageTop">
+  <action id="EditorScrollTop">
     <keyboard-shortcut first-keystroke="ctrl page_up" />
   </action>
   <action id="FileChooser.GotoDesktop" />
