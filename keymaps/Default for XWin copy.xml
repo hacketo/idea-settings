@@ -1,21 +1,25 @@
 <keymap version="1" name="Default for XWin copy" parent="Default for XWin">
-  <action id="Back">
-    <keyboard-shortcut first-keystroke="ctrl less" />
-  </action>
+  <action id="CIDR.Lang.Cpp.GenerateDefinitions" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
-  <action id="Forward">
-    <keyboard-shortcut first-keystroke="shift ctrl less" />
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
-  <action id="NextSplitter">
-    <keyboard-shortcut first-keystroke="alt right" />
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
-  <action id="NextTab" />
-  <action id="PrevSplitter">
-    <keyboard-shortcut first-keystroke="alt left" />
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
   </action>
-  <action id="PreviousTab" />
-  <action id="Uml.ShowDiff" />
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="shift alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
 </keymap>
