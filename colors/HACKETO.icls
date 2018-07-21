@@ -5,7 +5,7 @@
     <property name="description" />
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2018-06-06T11:49:11</property>
+    <property name="modified">2018-07-21T12:30:12</property>
     <property name="originalScheme">_@user_Lichen (rainglow)</property>
     <property name="vendorMail" />
     <property name="vendorName">Hacketo</property>
@@ -1214,7 +1214,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="fffbf7" />
+        <option name="EFFECT_COLOR" value="93c77f" />
         <option name="ERROR_STRIPE_COLOR" value="4f4f4f" />
       </value>
     </option>
@@ -2228,16 +2228,12 @@
     <option name="PHP_CONCATENATION">
       <value />
     </option>
-    <option name="PHP_CONSTANT" baseAttributes="DEFAULT_CONSTANT" />
-    <option name="PHP_EXEC_COMMAND_ID" baseAttributes="DEFAULT_STRING" />
-    <option name="PHP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="PHP_TAG">
       <value>
         <option name="FOREGROUND" value="da7c62" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="PROPERTIES.INVALID_STRING_ESCAPE">
       <value>
         <option name="EFFECT_COLOR" value="722c40" />
@@ -2867,7 +2863,6 @@
         <option name="BACKGROUND" value="323232" />
       </value>
     </option>
-    <option name="SQL_SYNTHETIC_ENTITY" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="1a9d6b" />
@@ -3290,7 +3285,7 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="fffbf7" />
+        <option name="EFFECT_COLOR" value="93c77f" />
         <option name="ERROR_STRIPE_COLOR" value="4f4f4f" />
       </value>
     </option>
