@@ -5,17 +5,17 @@
     <property name="description" />
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2018-06-06T11:49:11</property>
+    <property name="modified">2018-07-31T20:48:29</property>
     <property name="originalScheme">_@user_Lichen (rainglow)</property>
     <property name="vendorMail" />
     <property name="vendorName">Hacketo</property>
     <property name="vendorUrl">http://d3vx.fr</property>
     <property name="version">0.1</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="0.9" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
-  <option name="CONSOLE_FONT_NAME" value="Tlwg Typist" />
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="11" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c5d671" />
@@ -2228,16 +2228,12 @@
     <option name="PHP_CONCATENATION">
       <value />
     </option>
-    <option name="PHP_CONSTANT" baseAttributes="DEFAULT_CONSTANT" />
-    <option name="PHP_EXEC_COMMAND_ID" baseAttributes="DEFAULT_STRING" />
-    <option name="PHP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="PHP_TAG">
       <value>
         <option name="FOREGROUND" value="da7c62" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="PROPERTIES.INVALID_STRING_ESCAPE">
       <value>
         <option name="EFFECT_COLOR" value="722c40" />
@@ -2867,7 +2863,6 @@
         <option name="BACKGROUND" value="323232" />
       </value>
     </option>
-    <option name="SQL_SYNTHETIC_ENTITY" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="1a9d6b" />
