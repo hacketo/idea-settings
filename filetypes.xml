@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="cards.txt" type="PLAIN_TEXT" />
       <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping ext="ogg" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
