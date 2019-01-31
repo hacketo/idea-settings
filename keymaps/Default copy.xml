@@ -21,12 +21,17 @@
     <keyboard-shortcut first-keystroke="shift ctrl less" />
   </action>
   <action id="GotoClass">
-    <keyboard-shortcut first-keystroke="ctrl e" />
+    <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
+  <action id="MethodHierarchy.OverrideMethodAction" />
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="alt right" />
   </action>
   <action id="NextTab" />
+  <action id="OverrideMethods" />
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
