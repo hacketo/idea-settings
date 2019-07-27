@@ -3,9 +3,15 @@
     <keyboard-shortcut first-keystroke="shift ctrl c" />
   </action>
   <action id="CopyPaths" />
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="ctrl n" />
     <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
   <action id="OverrideMethods" />
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
 </keymap>
