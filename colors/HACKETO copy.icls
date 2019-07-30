@@ -4,7 +4,7 @@
     <property name="created">2019-07-30T20:16:48</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2019-07-30T20:17:10</property>
+    <property name="modified">2019-07-30T20:52:51</property>
     <property name="originalScheme">HACKETO</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -16,7 +16,7 @@
   <colors>
     <option name="ADDED_LINES_COLOR" value="c5d671" />
     <option name="ANNOTATIONS_COLOR" value="b0bec5" />
-    <option name="CARET_COLOR" value="9cadbc" />
+    <option name="CARET_COLOR" value="86e08f" />
     <option name="CARET_ROW_COLOR" value="1f2d39" />
     <option name="CONSOLE_BACKGROUND_KEY" value="1a252f" />
     <option name="DELETED_LINES_COLOR" value="f77669" />
@@ -597,34 +597,21 @@
     </option>
     <option name="DEFAULT_BRACES">
       <value>
-        <option name="FOREGROUND" value="9f997e" />
+        <option name="FOREGROUND" value="bdb395" />
       </value>
     </option>
     <option name="DEFAULT_BRACKETS">
       <value>
-        <option name="FOREGROUND" value="9f997e" />
+        <option name="FOREGROUND" value="bdb395" />
       </value>
     </option>
-    <option name="DEFAULT_CLASS_NAME">
-      <value>
-        <option name="FOREGROUND" value="d1e6ea" />
-      </value>
-    </option>
-    <option name="DEFAULT_CLASS_REFERENCE">
-      <value>
-        <option name="FOREGROUND" value="249388" />
-      </value>
-    </option>
+    <option name="DEFAULT_CLASS_REFERENCE" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_COMMA">
       <value>
-        <option name="FOREGROUND" value="9f997e" />
+        <option name="FOREGROUND" value="bdb395" />
       </value>
     </option>
-    <option name="DEFAULT_CONSTANT">
-      <value>
-        <option name="FOREGROUND" value="edffff" />
-      </value>
-    </option>
+    <option name="DEFAULT_CONSTANT" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_DOC_COMMENT">
       <value>
         <option name="FOREGROUND" value="28b930" />
@@ -649,7 +636,7 @@
     </option>
     <option name="DEFAULT_DOT">
       <value>
-        <option name="FOREGROUND" value="9f997e" />
+        <option name="FOREGROUND" value="bdb395" />
       </value>
     </option>
     <option name="DEFAULT_ENTITY">
@@ -657,34 +644,22 @@
         <option name="FOREGROUND" value="c5d671" />
       </value>
     </option>
-    <option name="DEFAULT_FUNCTION_CALL">
-      <value>
-        <option name="FOREGROUND" value="9ce878" />
-      </value>
-    </option>
+    <option name="DEFAULT_FUNCTION_CALL" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="d1e6ea" />
+        <option name="FOREGROUND" value="70c5bf" />
       </value>
     </option>
-    <option name="DEFAULT_IDENTIFIER">
-      <value>
-        <option name="FOREGROUND" value="edffff" />
-      </value>
-    </option>
-    <option name="DEFAULT_INSTANCE_FIELD">
-      <value>
-        <option name="FOREGROUND" value="9f997e" />
-      </value>
-    </option>
+    <option name="DEFAULT_IDENTIFIER" baseAttributes="TEXT" />
+    <option name="DEFAULT_INSTANCE_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_INSTANCE_METHOD">
       <value>
-        <option name="FOREGROUND" value="9f997e" />
+        <option name="FOREGROUND" value="bdb395" />
       </value>
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
-        <option name="FOREGROUND" value="c5d671" />
+        <option name="FOREGROUND" value="cccccc" />
       </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
@@ -695,17 +670,12 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="9edab1" />
+        <option name="FOREGROUND" value="cccccc" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="28b930" />
-      </value>
-    </option>
-    <option name="DEFAULT_LOCAL_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="9f997e" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
@@ -715,48 +685,45 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="1a9d6b" />
+        <option name="FOREGROUND" value="70c5bf" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="7e94a7" />
+        <option name="FOREGROUND" value="bdb395" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="a2b8c3" />
+        <option name="FOREGROUND" value="cbe0f5" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
       <value>
-        <option name="FOREGROUND" value="9f997e" />
+        <option name="FOREGROUND" value="bdb395" />
       </value>
     </option>
-    <option name="DEFAULT_PREDEFINED_SYMBOL">
-      <value>
-        <option name="FOREGROUND" value="9edab1" />
-      </value>
-    </option>
+    <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="DEFAULT_REASSIGNED_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="DEFAULT_SEMICOLON">
       <value>
-        <option name="FOREGROUND" value="9f997e" />
+        <option name="FOREGROUND" value="bdb395" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="9f997e" />
+        <option name="FOREGROUND" value="bdb395" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="9f997e" />
+        <option name="FOREGROUND" value="bdb395" />
       </value>
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="3fb9a9" />
+        <option name="FOREGROUND" value="2ca198" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -1285,11 +1252,20 @@
         <option name="FOREGROUND" value="1a1f29" />
       </value>
     </option>
-    <option name="JS.INSTANCE_MEMBER_VARIABLE">
+    <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
+    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
+    <option name="JS.KEYWORD">
       <value>
-        <option name="FOREGROUND" value="9f997e" />
+        <option name="FOREGROUND" value="9edab1" />
       </value>
     </option>
+    <option name="JS.PRIMITIVE.TYPE">
+      <value>
+        <option name="FOREGROUND" value="9de3c0" />
+      </value>
+    </option>
+    <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
     <option name="JSP_DIRECTIVE_NAME">
       <value>
         <option name="FOREGROUND" value="a7dbd8" />
@@ -3192,8 +3168,8 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="9f997e" />
-        <option name="BACKGROUND" value="52329" />
+        <option name="FOREGROUND" value="bdb395" />
+        <option name="BACKGROUND" value="42327" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
