@@ -4,10 +4,10 @@
     <property name="created">2019-07-30T20:16:48</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2019-08-01T21:22:04</property>
+    <property name="modified">2019-08-04T14:15:50</property>
     <property name="originalScheme">HACKETO</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.0" />
+  <option name="LINE_SPACING" value="0.9" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
