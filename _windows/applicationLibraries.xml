@@ -4,5 +4,9 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="@types/chai-spies" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
   </component>
 </application>
