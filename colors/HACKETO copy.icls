@@ -4,7 +4,7 @@
     <property name="created">2019-07-30T20:16:48</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2019-08-16T20:27:12</property>
+    <property name="modified">2019-08-28T13:29:43</property>
     <property name="originalScheme">HACKETO</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -3190,8 +3190,8 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="31b72c" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="42b720" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="TWIG_IDENTIFIER">
