@@ -4,14 +4,13 @@
     <property name="created">2019-07-30T20:16:48</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2019-08-14T21:02:19</property>
+    <property name="modified">2019-08-28T13:29:43</property>
     <property name="originalScheme">HACKETO</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_SIZE" value="11" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
-  <option name="CONSOLE_FONT_SIZE" value="11" />
   <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c5d671" />
@@ -671,7 +670,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="cccccc" />
+        <option name="FOREGROUND" value="9edab1" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
@@ -2206,12 +2205,15 @@
     <option name="PHP_CONCATENATION">
       <value />
     </option>
+    <option name="PHP_CONSTANT" baseAttributes="DEFAULT_CONSTANT" />
+    <option name="PHP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="PHP_TAG">
       <value>
         <option name="FOREGROUND" value="da7c62" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="PROPERTIES.INVALID_STRING_ESCAPE">
       <value>
         <option name="EFFECT_COLOR" value="722c40" />
@@ -3188,8 +3190,8 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="31b72c" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="42b720" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="TWIG_IDENTIFIER">
