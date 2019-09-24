@@ -1,11 +1,12 @@
 <keymap version="1" name="Default for XWin copy" parent="Default for XWin">
-  <action id="ChangesView.ShelveSilently" />
+  <action id="CIDR.Lang.Cpp.GenerateDefinitions" />
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="shift ctrl c" />
   </action>
   <action id="CopyPaths" />
-  <action id="DatabaseView.CopyDdlAction">
-    <keyboard-shortcut first-keystroke="shift ctrl alt g" />
+  <action id="Diff.ShowSettingsPopup" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="ctrl h" />
@@ -17,6 +18,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
   <action id="MethodHierarchy" />
+  <action id="MethodHierarchy.OverrideMethodAction" />
   <action id="OverrideMethods" />
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift ctrl h" />
