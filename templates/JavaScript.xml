@@ -3,7 +3,6 @@
     <variable name="VARKIND" expression="jsSuggestDefaultVariableKind(false)" defaultValue="var" alwaysStopAt="false" />
     <variable name="INDEX" expression="jsSuggestIndexName()" defaultValue="" alwaysStopAt="true" />
     <variable name="LIST" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="forr" value="for($VARKIND$ $INDEX$ = $LIMIT$.length - 1; $INDEX$ &gt;= 0; $INDEX$--) {&#10;  $END$&#10;}" description="Create reversed iteration loop" toReformat="true" toShortenFQNames="true">
     <variable name="VARKIND" expression="jsSuggestDefaultVariableKind(false)" defaultValue="var" alwaysStopAt="true" />
