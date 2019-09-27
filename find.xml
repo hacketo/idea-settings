@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../test/jsdocTest.js'" />
-    <option name="defaultScopeName" value="File '.../test/jsdocTest.js'" />
-    <option name="SEARCH_SCOPE" value="File '.../test/jsdocTest.js'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.htm</mask>
