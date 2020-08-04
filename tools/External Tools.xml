@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Serial Monitor" description="platform io serial monitor" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="platformio" />
+      <option name="PARAMETERS" value="device monitor" />
+      <option name="WORKING_DIRECTORY" />
+    </exec>
+  </tool>
+</toolSet>
