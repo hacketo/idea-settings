@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Serial monitor" description="PlatformIO Serial monitor" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/media/hacketo/SContempt/Workspace/Arduino/Temp/serialmonitor.sh" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="/media/hacketo/SContempt/Workspace/Arduino/Temp" />
+    </exec>
+  </tool>
+</toolSet>

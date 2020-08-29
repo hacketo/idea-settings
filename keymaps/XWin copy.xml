@@ -1,0 +1,34 @@
+<keymap version="1" name="XWin copy" parent="Default for XWin">
+  <action id="CIDR.Debugger.CopyAddress" />
+  <action id="CIDR.Lang.Cpp.GenerateDefinitions" />
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
+  <action id="Console.TableResult.CompareCells" />
+  <action id="CopyPaths" />
+  <action id="DatabaseView.CopyDdlAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt g" />
+  </action>
+  <action id="Diff.ShowSettingsPopup" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
+  </action>
+  <action id="ExternalSystem.ProjectRefreshAction" />
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
+  <action id="OverrideMethods" />
+  <action id="RemoteHostView.CopyPaths" />
+  <action id="Terminal.CopySelectedText">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
+  <action id="Uml.ShowDiff" />
+  <action id="WelcomeScreen.CopyProjectPath" />
+</keymap>

@@ -1,7 +1,0 @@
-<application>
-  <component name="GithubAccounts">
-    <account id="0fb5abde-48aa-4699-949c-862db0446f0f" name="hacketo">
-      <server host="github.com" />
-    </account>
-  </component>
-</application>
