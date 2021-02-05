@@ -30,5 +30,12 @@
     <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
   <action id="Uml.ShowDiff" />
+  <action id="UpdateRunningApplication" />
   <action id="WelcomeScreen.CopyProjectPath" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  </action>
 </keymap>
